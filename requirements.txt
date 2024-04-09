@@ -59,10 +59,8 @@ fqdn==1.5.1
 frozenlist==1.4.1
 fsspec==2024.3.1
 future==0.18.3
-GDAL==3.6.2
 gdown==5.1.0
 geedim==1.7.2
-geemap==0.32.0
 geocoder==1.38.1
 geographiclib==2.0
 geojson==3.1.0
